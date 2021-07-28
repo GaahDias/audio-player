@@ -61,4 +61,5 @@ def stop_audio():
     clear_audio_cache()
 
 if __name__ == "__main__":
+    util.clear_console()
     print("Please, start the main.py file!")

@@ -81,4 +81,5 @@ def start_player(audio_name):
 
 
 if __name__ == "__main__":
+    util.clear_console()
     print("Please, start the main.py file!")

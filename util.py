@@ -13,4 +13,5 @@ def get_file_name(path):
         return path
 
 if __name__ == "__main__":
+    clear_console()
     print("Please, start the main.py file!")
