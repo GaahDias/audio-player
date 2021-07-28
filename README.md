@@ -4,6 +4,7 @@ Simple audio player for terminal made with Python. WORK IN PROGRESS!
 
 ## Functionalities:
 This player should have everything you would imagine in a regular music player! For now the functionalities are:
+* Insert audio file
 * Pause audio
 * Change volume
 
