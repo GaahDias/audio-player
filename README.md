@@ -9,7 +9,7 @@ This player should have everything you would imagine in a regular music player! 
 * Change volume
 
 ## Design:
-Here are some prints of the audio player:
+Here are some screenshots of the audio player:
 
 <table>
     <tr>
